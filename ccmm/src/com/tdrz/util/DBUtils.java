@@ -8,7 +8,7 @@ public class DBUtils {
 	
    private String username;
    
-   private String aa;
+   private String aa123;
 
 public String getConn() {
 	return conn;
