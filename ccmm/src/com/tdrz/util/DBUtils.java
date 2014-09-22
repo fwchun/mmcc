@@ -9,6 +9,9 @@ public class DBUtils {
    private String username;
    
    private String aa123;
+   private String aa2;
+   
+   
 
 public String getConn() {
 	return conn;
