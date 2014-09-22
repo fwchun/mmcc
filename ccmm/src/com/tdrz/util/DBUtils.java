@@ -7,6 +7,8 @@ public class DBUtils {
 	private String db;
 	
    private String username;
+   
+   private String aa;
 
 public String getConn() {
 	return conn;
