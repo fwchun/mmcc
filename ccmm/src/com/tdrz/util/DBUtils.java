@@ -10,7 +10,7 @@ public class DBUtils {
    
    private String aa123;
    private String aa2;
-   
+   private String bb3;
    
 
 public String getConn() {
